@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	If at the time my partner push the new update and Git automatically pull changes when I'm still work on my part, it must be make some mistakes!
 	Since then, manually update let us update our project when we really have finished some changes and want to intergrate them.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks: Clone one's repository to my repository on GitHub.
+	Clones: Clone my repository on GitHub to local computer or just clone my local repository on the same computer.
+	Branches: Create a new version to make some changes that won't contain in master unless we merge them.
