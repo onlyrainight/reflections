@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	After copying, we can work offline!
 	Also, we can checkout the different between our new commit and remote version rapidly.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Without using Git or GitHub, I may use email, google cloud or other cloud website. But by using them, I'll lose my history of changing, and it'll be harder to work with others. The easier one may be that me and my partner won't have to learn about Git command.XD
